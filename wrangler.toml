@@ -1,0 +1,9 @@
+name = "chivastet2026"
+compatibility_date = "2025-10-25"
+
+[build]
+command = "npm run build"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
