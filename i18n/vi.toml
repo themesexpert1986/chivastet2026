@@ -1,0 +1,60 @@
+[404_text]
+other = "Trang này bạn tìm kiếm không tồn tại hoặc đã được di chuyển . "
+
+[404_title]
+other = "Trang không tìm thấy :("
+
+[browse]
+other = "Duyệt"
+
+[chapter_next]
+other = "Tiếp theo"
+
+[chapter_previous]
+other = "Quay lại"
+
+[edit_page]
+other = "Sửa trang này trên"
+
+[get_started]
+other = "Khám phá"
+
+[home]
+other = "Home"
+
+[in]
+other = "trong"
+
+[by]
+other = "bởi"
+
+[last_updated]
+other = "Cập nhật lần cuối vào"
+
+[minute]
+one = "phút"
+other = "phút."
+
+[on_this_page]
+other = "Trên trang này"
+
+[reading_time]
+other = "Ước lượng thời gian đọc"
+
+[search_loading]
+other = "Đang nạp chỉ mục tìm kiếm…"
+
+[search_no_recent]
+other = "No recent searches"
+
+[search_no_results]
+other = "Không có kết quả"
+
+[search_placeholder]
+other = "Tìm kiếm"
+
+[search_title]
+other = "Tìm kiếm"
+
+[video_unsupported]
+other = "Your browser doesn't support embedded videos, but don't worry, you can <a href=\"{{ .RelPermalink }}\">download it</a> and watch it with your favorite video player!"
