@@ -34,13 +34,14 @@ copyRight = "Copyright (c) 2020-2024 Thulite"
 [outputFormats.SITEMAP]
   mediaType = "application/xml"
   baseName = "sitemap"
-  isHTML = false
+  isHTML = true
   isPlainText = true
   noUgly = true
   rel  = "sitemap"
 
 [sitemap]
   changefreq = "monthly"
+  disable = true
   filename = "sitemap.xml"
   priority = 0.5
 
