@@ -5,3 +5,7 @@ baseurl = "https://chivascollection.phanphoiruoungoai.net/"
   disable = true
   filename = "sitemap.xml"
   priority = 0.5
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-05FKBHYDFJ'
