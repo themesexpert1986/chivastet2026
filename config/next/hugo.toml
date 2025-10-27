@@ -1,2 +1,6 @@
-# Overrides for next environment
-baseurl = "/"
+baseurl = "https://chivascollection.phanphoiruoungoai.net/"
+[sitemap]
+  changefreq = "monthly"
+  disable = true
+  filename = "sitemap.xml"
+  priority = 0.5
