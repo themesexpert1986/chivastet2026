@@ -1,5 +1,6 @@
 name = "chivastet2026"
-compatibility_date = "2025-10-25"
+compatibility_flags = [ "nodejs_compat" ]
+compatibility_date = "2024-09-23"
 
 [build]
 command = "npm run build"
@@ -7,3 +8,4 @@ command = "npm run build"
 [assets]
 directory = "./public"
 not_found_handling = "404-page"
+
